@@ -1,0 +1,14 @@
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\bin\Debug\net8.0\LettersCleaner.exe
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\bin\Debug\net8.0\LettersCleaner.deps.json
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\bin\Debug\net8.0\LettersCleaner.runtimeconfig.json
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\bin\Debug\net8.0\LettersCleaner.dll
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\bin\Debug\net8.0\LettersCleaner.pdb
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\LettersCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\LettersCleaner.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\LettersCleaner.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\LettersCleaner.csproj.CoreCompileInputs.cache
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\LettersCleaner.dll
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\refint\LettersCleaner.dll
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\LettersCleaner.pdb
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\LettersCleaner.genruntimeconfig.cache
+C:\Users\KalinA\source\repos\LettersCleaner\LettersCleaner\obj\Debug\net8.0\ref\LettersCleaner.dll
